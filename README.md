@@ -1,5 +1,5 @@
 # File-Compression-Tool-using-Huffman-Coding
-
+# Hy I am Lalit
 A complete **lossless file compression and decompression tool** implemented in **C++** using the Huffman Coding algorithm.
 
 This project compresses a text file into a compact binary format and reconstructs the original file without any data loss.
